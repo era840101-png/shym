@@ -133,7 +133,7 @@ const audioData = {
   2:{kz:"audio/ARBAT2.mp3",ru:"audio/",en:"audio/"},
   3:{kz:"audio/QIYALALEMI.mp3",ru:"audio/",en:"audio/"},
   4:{kz:"audio/ORYSDRAMA.mp3",ru:"audio/",en:"audio/"},
-  5:{kz:"audio/SHYMKENTPLAZA.mp3",ru:"audio/",en:"audio/"},
+  5:{kz:"audio/.mp3",ru:"audio/",en:"audio/"},
   6:{kz:"audio/SPUTNIK.mp3",ru:"audio/",en:"audio/"},
   7:{kz:"audio/ORTALYQ.mp3",ru:"audio/",en:"audio/"},
   8:{kz:"audio/MEGA.mp3",ru:"audio/",en:"audio/"},
